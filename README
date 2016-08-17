@@ -1,0 +1,21 @@
+README file
+=========================================
+http://localhost/oop-comment/index.php
+
+or
+
+http://localhost/oop-comment/
+=========================================
+create a database called : oopblog
+
+Import the oopblog database
+ 
+
+=========================================
+Set the database configuration in the core/init.php file
+
+
+=========================================
+
+
+=========================================
